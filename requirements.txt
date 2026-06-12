@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+ccxt==4.3.74
+numpy==2.0.0
+pandas==2.2.2
+plotly==5.22.0
+kaleido==0.2.1
