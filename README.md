@@ -1,6 +1,6 @@
 # SWR Pro Bot 📊
 
-Telegram-бот для анализа крипторынка: Supply/Weakness/Resistance зоны, RSI, MACD.  
+Telegram-бот для анализа металлов и товаров: Supply/Weakness/Resistance зоны, RSI, MACD.  
 Деплоится в Railway в один клик.
 
 ---
@@ -9,8 +9,7 @@ Telegram-бот для анализа крипторынка: Supply/Weakness/Re
 
 - 🟥🟩 **SWR-зоны** — прямоугольные области поддержки и сопротивления (как в TradingView)
 - 📊 **График** в тёмном стиле: свечи + зоны + RSI + MACD, PNG 1650×1200px
-- 📡 **Текстовый сигнал**: LONG / SHORT / Нейтрально с обоснованием
-- 🔄 **4 пары**: BTC, ETH, SOL, BNB / 3 таймфрейма: 1h, 4h, 1d
+- 📡 **Текстовый сигнал**: LONG / SHORT / Нейтрально с обоснованием таймфрейма: 1h, 4h, 1d
 - ⚡ Async-native (ccxt async + python-telegram-bot v21)
 
 ---
